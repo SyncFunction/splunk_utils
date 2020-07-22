@@ -1,0 +1,1 @@
+/opt/splunkforwarder/bin/splunk cmd splunkd rest --noauth POST /services/admin/users/admin "password=password"
